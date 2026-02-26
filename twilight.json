@@ -5,11 +5,17 @@
   },
   "repository": "https://github.com/az212z/salla-theme-eid-2026-salla-root",
   "author_email": "alialamer1418asd@gmail.com",
+  "support_url": "https://github.com/az212z/salla-theme-eid-2026-salla-root/issues",
+  "description": {
+    "ar": "ثيم احترافي وجذاب لمتجر سلة بموسم عيد الفطر 2026",
+    "en": "Professional and attractive Salla theme for Eid Al-Fitr 2026"
+  },
   "features": [
-    "color",
     "fonts",
+    "color",
     "filters",
     "breadcrumb"
   ],
-  "settings": []
+  "settings": [],
+  "components": []
 }
