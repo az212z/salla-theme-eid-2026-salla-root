@@ -1,0 +1,10 @@
+{
+  "name": "salla-theme-eid-2026-salla-root",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Salla root structure Eid 2026 theme",
+  "scripts": {
+    "dev": "salla theme preview"
+  },
+  "dependencies": {}
+}
