@@ -1,0 +1,17 @@
+{
+  "name": "Eid Al-Fitr 2026 Pro",
+  "slug": "eid-2026-pro-root",
+  "version": "1.0.0",
+  "author": "Nadir",
+  "description": "Professional Eid Al-Fitr 2026 theme for Salla",
+  "rtl": true,
+  "entry": "templates/home.html",
+  "assets": {
+    "css": [
+      "assets/css/style.css"
+    ],
+    "js": [
+      "assets/js/app.js"
+    ]
+  }
+}
