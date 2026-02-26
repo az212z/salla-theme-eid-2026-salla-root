@@ -4,9 +4,13 @@
   "private": true,
   "description": "Salla root structure Eid 2026 theme",
   "scripts": {
-    "dev": "salla theme preview"
+    "dev": "salla theme preview",
+    "development": "vite"
   },
   "dependencies": {
     "lodash": "^4.17.23"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
   }
 }
