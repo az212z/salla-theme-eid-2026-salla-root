@@ -1,0 +1,10 @@
+{
+  "name": "Eid Al-Fitr 2026 Pro",
+  "version": "1.0.1",
+  "author": "Nadir",
+  "repository": "https://github.com/az212z/salla-theme-eid-2026-salla-root",
+  "theme": {
+    "entry": "templates/home.html",
+    "rtl": true
+  }
+}
